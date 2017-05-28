@@ -25,5 +25,9 @@
   (:shadow
    #:stream)
   (:export
-   #:stream
-   #:with-stream))
+   #:input-stream
+   #:with-input-stream
+   #:output-stream
+   #:with-output-stream
+   #:io-stream
+   #:with-io-stream))
